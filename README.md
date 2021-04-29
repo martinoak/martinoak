@@ -2,6 +2,8 @@
 
 My name is Martin, I am 22 years old and currently studying bachelor degree at CULS in Prague.
 
+#### :tropical_drink: Absolut Vodka collector :tropical_drink: - :tractor: Tractor driving license owner :tractor: - :money_with_wings: Crypto enthusiast :money_with_wings:
+
 I am employed as an Intranet Administrator at <img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/csob-logo.png?raw=true" width="25" height="25"> .
 
 ## My previous experience: <br>
