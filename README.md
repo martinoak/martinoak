@@ -12,6 +12,7 @@ I am employed as an Intranet Administrator at <img src="https://github.com/Marve
 
 ### Fun Facts ⚡
 -  A firetruck :fire_engine: is actually a watertruck :sweat_drops: .
+-  Sand 🏖️ is called sand because it lies between sea 🌊 and land ⛰️ .
 
 
 ## Reach me
