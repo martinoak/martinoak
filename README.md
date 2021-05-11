@@ -8,7 +8,7 @@ I am employed as an Intranet Administrator at <img src="https://github.com/Marve
 
 ## My previous experience: <br>
 <a><img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/ibmlogo.png?raw=true" width="150" height="70">
-<img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/hemingway-bar-praha.png?raw=true" width="150" height="70"></a>
+<img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/hemingway-bar-praha.png?raw=true" width="100" height="70"></a>
 <br>
 
 ### Fun Facts ⚡
