@@ -4,7 +4,7 @@ My name is Martin, I am 23 years old and currently studying for Master degree at
 
 #### :cocktail: Absolut Vodka collector :cocktail: - :tractor: Tractor driving license owner :tractor: - :weary: Crypto enthusiast :weary:
 
-I am currently employed as a Programmer at <a href="https://dek.cz"><img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/unnamed.jpg?raw=true" width="30" height="30"></a>.
+I am currently employed as a Programmer at <a href="https://dek.cz" target="_blank"><img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/unnamed.jpg?raw=true" width="30" height="30"></a>.
 
 ## My previous experience: <br>
 <a><img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/csob-logo.png?raw=true" width="80" height="70">
