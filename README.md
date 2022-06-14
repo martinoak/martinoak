@@ -2,9 +2,9 @@
 
 My name is Martin, I am 23 years old and currently studying bachelor degree at CULS in Prague.
 
-#### :tropical_drink: Absolut Vodka collector :tropical_drink: - :tractor: Tractor driving license owner :tractor: - :money_with_wings: Crypto enthusiast :money_with_wings:
+#### :cocktail: Absolut Vodka collector :cocktail: - :tractor: Tractor driving license owner :tractor: - :weary: Crypto enthusiast :weary:
 
-I am currently employed as a Programmer at <img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/unnamed.jpg?raw=true" width="30" height="30">.
+I am currently employed as a Programmer at <a href="https://dek.cz"><img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/unnamed.jpg?raw=true" width="30" height="30"></a>.
 
 ## My previous experience: <br>
 <a><img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/csob-logo.png?raw=true" width="80" height="70">
@@ -22,10 +22,9 @@ I am currently employed as a Programmer at <img src="https://github.com/Marvelou
 ### Progress
 <img src="https://www.codewars.com/users/HackerMannn/badges/micro">
 
-## Reach me
-
-Martin Dub - [LinkedIn](https://www.linkedin.com/in/martin-dub/)
+## Reach me @[LinkedIn](https://www.linkedin.com/in/martin-dub/)
 
 
-#### Best article I ever read on the whole internet (so far):
-<a>https://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software</a>
+#### <a href="https://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software">Best article</a> I read on the whole internet (so far):
+SHA-1 encryption algorithm
+
