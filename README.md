@@ -20,7 +20,10 @@ I am currently employed as a Programmer at <a href="https://dek.cz" target="_bla
 
 
 ### Progress
-<img src="https://www.codewars.com/users/HackerMannn/badges/micro">
+<a href="https://www.codewars.com/users/HackerMannn"><img src="https://www.codewars.com/users/HackerMannn/badges/micro"></a>
+<a href="https://cssbattle.dev/player/martinoak"><img src="https://cssbattle.dev/images/logo.svg" style="width:115px"></a>
+<a href="https://stackoverflow.com/users/11426324/martin"><img src="https://149611589.v2.pressablecdn.com/wp-content/uploads/2016/07/stack-overflow.png" style="width:80px"></a>
+
 
 ## Reach me @[LinkedIn](https://www.linkedin.com/in/martin-dub/)
 
