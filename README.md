@@ -28,6 +28,6 @@ I am currently employed as a Programmer at <a href="https://dek.cz" target="_bla
 ## Reach me @[LinkedIn](https://www.linkedin.com/in/martin-dub/)
 
 
-#### <a href="https://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software">Best article</a> I have read on the whole internet (so far):
-SHA-1 encryption algorithm
+#### Best article I have read on the whole internet (so far):
+[SHA-1 encryption algorithm](https://www.metamorphosite.com/one-way-hash-encryption-sha1-data-software)
 
