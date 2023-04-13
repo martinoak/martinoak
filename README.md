@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Martin, I am 23 years old and currently studying for Master degree at CULS FEM in Prague.
+My name is Martin, I am 24 years old and currently studying for Master degree at CULS FEM in Prague.
 
 #### :cocktail: Absolut Vodka collector :cocktail: - :tractor: Tractor driving license owner :tractor: - :weary: Crypto enthusiast :weary:
 
