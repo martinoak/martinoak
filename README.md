@@ -7,10 +7,11 @@ My name is Martin, I am 26 years old and currently studying for Master degree at
 I am currently employed as a Programmer at <a href="https://dek.cz" target="_blank"><img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/unnamed.jpg?raw=true" width="30" height="30"></a>.
 
 ## My previous experience: <br>
-<a><img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/csob-logo.png?raw=true" width="80" height="70">
-<img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/ibmlogo.png?raw=true" width="150" height="70">
-<img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/hemingway-bar-praha.png?raw=true" width="100" height="70">
-</a>
+<div>
+  <img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/csob-logo.png?raw=true" width="80" height="70">
+  <img src="https://4vector.com/i/free-vector-ibm-logo_091285_IBM_logo.png" width="180" height="70">
+  <img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/hemingway-bar-praha.png?raw=true" width="100" height="70">
+</div>
 <br>
 
 ### Fun Facts ⚡
