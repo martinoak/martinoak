@@ -9,7 +9,7 @@ I am currently employed as a Programmer at <a href="https://dek.cz" target="_bla
 ## My previous experience: <br>
 <div>
   <img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/csob-logo.png?raw=true" width="80" height="70">
-  <img src="https://4vector.com/i/free-vector-ibm-logo_091285_IBM_logo.png" width="180" height="70">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="180" height="70">
   <img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/hemingway-bar-praha.png?raw=true" width="100" height="70">
 </div>
 <br>
