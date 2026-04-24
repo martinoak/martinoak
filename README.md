@@ -1,8 +1,8 @@
 # Hi there 👋
 
-My name is Martin, I am { currentYear } - { 1998 } years old with a Master degree from CULS FEM in Prague.
+My name is Martin, I am a full-stack web developer with a Master degree from CULS FEM in Prague.
 
-#### :cocktail: Absolut Vodka collector :cocktail: - :tractor: Tractor driving license owner :tractor: - :weary: Bitcoin at 60k enthusiast :weary:
+#### :cocktail: Absolut Vodka collector :cocktail: - :tractor: Tractor driving license owner :tractor: - :star: Pokémon kid :star:
 
 I am currently employed as a Full-Stack Programmer at <a href="https://dek.cz" target="_blank"><img src="https://github.com/MarvelousMartin/marvelousmartin/blob/main/assets/unnamed.jpg?raw=true" width="30" height="30"></a>.
 
